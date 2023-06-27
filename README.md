@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+I'm Harisabesh. I'm a computer science student who is interested in working on Full Stack Web Development. I like to work on open source and web technologies.
 <!--
 **Sabesh19/sabesh19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
